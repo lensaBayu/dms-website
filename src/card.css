@@ -1,0 +1,4 @@
+.hovered {
+    transition: all 0.3s ease;
+    /* Adjust the duration and easing function as needed */
+}
